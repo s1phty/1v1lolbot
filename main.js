@@ -58,8 +58,6 @@ client.on('message', message =>{
         client.commands.get('reddit').execute(message, args);
     } if(command === 'facebook'){
         client.commands.get('facebook').execute(message, args);
-    } if(command === '1cc'){
-        client.commands.get('1cc').execute(message, args);
     } if(command === '1cl'){
         client.commands.get('1cl').execute(message, args);
     } else if (command == 'leaderboard'){
