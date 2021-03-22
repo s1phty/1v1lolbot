@@ -1,0 +1,1 @@
+I used to be a 1v1.LOL staff member so I created this Discord bot that contained simple responses to common questions to make the server just a little bit better. I quit both the game and staff team so if anybody wants to continue this project go ahead.
